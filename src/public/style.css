@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./img.jpeg);
+    background-image: cover;
+}
+
+.form {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 50px;
+}
+
+.container input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.container form{
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+.log input {
+    width: 80px;
+    height: 40px;
+    color: blanchedalmond;
+    background-color: black;
+}
